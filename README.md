@@ -9,7 +9,7 @@
 #### [Изучение C](./learning-projects/learning-c)
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
-| **[Tetris in C](https://github.com/von-neyman/tetris-c)** | Классический Тетрис для терминала | C, Makefile, Doxygen, FSM |
+| **[Tetris in C](https://github.com/von-neyman/tetris-c)** | Классический Тетрис для терминала на C | C, Makefile, Doxygen, FSM |
 
 #### [Изучение C#](./learning-projects/learning-csharp)
 | Проект | Описание | Технологии |
