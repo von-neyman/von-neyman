@@ -14,4 +14,4 @@
 #### [Изучение C#](./learning-projects/learning-csharp)
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
-| **[Rogue in С#](https://github.com/von-neyman/rogue-csharp)** *(в разработке)* | Консольное игровое roguelike-приложение на С# в духе Rogue 1980 года | C#, ООП |
+| **[Rogue in С#](https://github.com/von-neyman/rogue-csharp)** | Консольное игровое roguelike-приложение на С# в духе Rogue 1980 года | C#, ООП |
