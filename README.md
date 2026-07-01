@@ -15,3 +15,4 @@
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
 | **[Rogue in С#](https://github.com/von-neyman/rogue-csharp)** | Консольное игровое roguelike-приложение на С# в духе Rogue 1980 года | C#, ООП |
+| **[TicTacToe on ASP.NET Core](https://github.com/von-neyman/tictactoe-aspnet)** | Веб-приложение на ASP.NET Core: крестики-нолики. | C#, ASP.NET Core, MVC |
