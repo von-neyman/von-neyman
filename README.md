@@ -1,6 +1,6 @@
 ### Привет, я Алексей!
 
-Я начинающий разработчик, студент Школы 21 (мой никнейм tokenbit). Освоил основы C, SQL, C#, ООП. Сейчас углубляюсь в ASP.NET Core.
+Я начинающий разработчик, студент Школы 21 (мой никнейм tokenbit). Освоил основы C, SQL, ООП, C#, ASP.NET Core, Docker, CI/CD (GitHub Actions).
 
 ## Портфолио
 
@@ -9,7 +9,7 @@
 #### [Изучение C](./learning-projects/learning-c)
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
-| **[Tetris in C](https://github.com/von-neyman/tetris-c)** | Классический Тетрис для терминала на C | C, Makefile, Doxygen, FSM |
+| **[Tetris in C](https://github.com/von-neyman/tetris-c)** | Классический Тетрис для терминала на C с Docker и CI/CD | C, Makefile, Doxygen, FSM, Docker, GitHub Actions (CI/CD), GitHub Container Registry |
 
 #### [Изучение C#](./learning-projects/learning-csharp)
 | Проект | Описание | Технологии |
