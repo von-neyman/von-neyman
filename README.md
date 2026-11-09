@@ -9,7 +9,7 @@
 #### [Изучение C](./learning-projects/learning-c)
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
-| **[Tetris in C](https://github.com/von-neyman/tetris-c)** | Классический Тетрис для терминала на C с Docker и CI/CD | C, Makefile, Doxygen, FSM, Docker, GitHub Actions (CI/CD), GitHub Container Registry |
+| **[Tetris in C](https://github.com/von-neyman/tetris-c)** | Классический Тетрис для терминала на C | C, Makefile, Doxygen, FSM, Docker, GitHub Actions (CI/CD), GitHub Container Registry |
 
 #### [Изучение C#](./learning-projects/learning-csharp)
 | Проект | Описание | Технологии |
