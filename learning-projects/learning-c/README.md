@@ -6,4 +6,4 @@
 
 | Проект | Описание | Ссылка |
 | :--- | :--- | :--- |
-| **Tetris in C** | Классический Тетрис для терминала. Конечный автомат, покрытие тестами >98%, Makefile, Doxygen. | [Код проекта →](https://github.com/von-neyman/tetris-c) |
+| **Tetris in C** | Классический Тетрис для терминала. Конечный автомат, покрытие тестами >98%, Makefile, Doxygen, Docker, CI/CD. | [Код проекта →](https://github.com/von-neyman/tetris-c) |
