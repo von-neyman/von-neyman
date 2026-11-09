@@ -1,6 +1,14 @@
 ### Привет, я Алексей!
 
-Я начинающий разработчик, студент Школы 21 (мой никнейм tokenbit). Освоил основы C, SQL, ООП, C#, ASP.NET Core, Docker, CI/CD (GitHub Actions).
+Я начинающий разработчик, студент Школы 21 (мой никнейм tokenbit).
+
+## Навыки
+
+- **Языки:** C, C#, SQL, Bash.
+- **Инструменты:** Git, Makefile, Doxygen, GCC, Clang.
+- **Фреймворки:** ASP.NET Core (MVC).
+- **Концепции:** ООП, FSM (конечные автоматы).
+- **Инфраструктура:** Docker (multi-stage build), CI/CD (GitHub Actions, GitLab CI), GitHub Container Registry (GHCR).
 
 ## Портфолио
 
@@ -9,10 +17,10 @@
 #### [Изучение C](./learning-projects/learning-c)
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
-| **[Tetris in C](https://github.com/von-neyman/tetris-c)** | Классический Тетрис для терминала на C | C, Makefile, Doxygen, FSM, Docker, GitHub Actions (CI/CD), GitHub Container Registry |
+| **[Tetris in C](https://github.com/von-neyman/tetris-c)** | Классический Тетрис для терминала на C | C, Makefile, Doxygen, FSM, Docker, GitHub Actions (CI/CD), GHCR |
 
 #### [Изучение C#](./learning-projects/learning-csharp)
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
-| **[Rogue in С#](https://github.com/von-neyman/rogue-csharp)** | Консольное игровое roguelike-приложение на С# в духе Rogue 1980 года | C#, ООП |
+| **[Rogue in C#](https://github.com/von-neyman/rogue-csharp)** | Консольное игровое roguelike-приложение на C# в духе Rogue 1980 года | C#, ООП |
 | **[TicTacToe on ASP.NET Core](https://github.com/von-neyman/tictactoe-aspnet)** | Веб-приложение на ASP.NET Core: крестики-нолики. | C#, ASP.NET Core, MVC |
