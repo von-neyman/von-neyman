@@ -19,6 +19,8 @@
 | :--- | :--- | :--- |
 | **[Tetris in C](https://github.com/von-neyman/tetris-c)** | Классический Тетрис для терминала на C | C, Makefile, Doxygen, FSM, Docker, GitHub Actions (CI/CD), GHCR |
 
+Статус CI/CD для **Tetris in C**: [![CI/CD](https://github.com/von-neyman/tetris-c/actions/workflows/tetris_c.yml/badge.svg)](https://github.com/von-neyman/tetris-c/actions/workflows/tetris_c.yml)
+
 #### [Изучение C#](./learning-projects/learning-csharp)
 | Проект | Описание | Технологии |
 | :--- | :--- | :--- |
