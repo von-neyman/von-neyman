@@ -28,3 +28,4 @@
 | **[TicTacToe on ASP.NET Core](https://github.com/von-neyman/tictactoe-aspnet)** | Веб-приложение на ASP.NET Core: крестики-нолики. | C#, ASP.NET Core, MVC |
 
 Статус CI/CD для **Rogue in C#**: [![CI/CD](https://github.com/von-neyman/rogue-csharp/actions/workflows/rogue-cs.yml/badge.svg)](https://github.com/von-neyman/rogue-csharp/actions/workflows/rogue-cs.yml)
+Статус CI/CD для **TicTacToe on ASP.NET Core**: [![CI/CD](https://github.com/von-neyman/tictactoe-aspnet/actions/workflows/tictactoe-aspnet.yml/badge.svg)](https://github.com/von-neyman/tictactoe-aspnet/actions/workflows/tictactoe-aspnet.yml)
